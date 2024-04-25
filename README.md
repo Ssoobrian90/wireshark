@@ -1,18 +1,20 @@
-# wireshark
 
-<h1>JWipe - Disk Sanitization</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Wireshark for Basic Network Security Analysis</h1>
+
+ ### [Certificate](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Learn how to troubleshoot with Wireshark, capture Traffic and analyze already captured Traffic. Know how to use Display and Capture Filters.
+Generate, Capture and analyze RADIUS, DNS, HTTP and Telnet unencrypted Traffic. Decrypt also the RADIUS encypted password.
+Generate, Capture then analyze SSH and HTTPS encrypted Traffic. Decrypt HTTPS Traffic in Wireshark.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Skills Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Network Security</b> 
+- <b>Wireshark</b>
 
 <h2>Environments Used </h2>
 
@@ -22,31 +24,31 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KX3Nn8w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/L6zo9yB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SOZddku.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DFatjeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IHjBEjH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5GjU7Xb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cxxVmSopng" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
