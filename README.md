@@ -2,7 +2,7 @@
 
 <h1>Wireshark for Basic Network Security Analysis</h1>
 
- ### [Certificate](https://youtu.be/7eJexJVCqJo)
+ ### [Certificate](https://coursera.org/share/ee16c160967a26b7ca87f9e5740544d2)
 
 <h2>Description</h2>
 Learn how to troubleshoot with Wireshark, capture Traffic and analyze already captured Traffic. Know how to use Display and Capture Filters.
